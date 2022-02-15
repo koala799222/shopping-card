@@ -1,9 +1,5 @@
 ## React-Redux Ecommerce web application
 
-this is a sample ecommerce web app made using react, redux and react router.
-
-Live demo can be found at [https://blissful-ramanujan-3c108d.netlify.app/](https://blissful-ramanujan-3c108d.netlify.app/).
-
 ## Build Setup
 
 1. Run `npm install` in root directory, to install all required dependencies.
